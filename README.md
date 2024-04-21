@@ -16,6 +16,8 @@ In AI mode, players can challenge an intelligent computer opponent. The AI is pr
 2. Each player needs to place a token in each round.
 3. In addition to placing a token, players can also perform a flipping action.
 4. The available flipping actions are: flip left, flip right, flip upside down, or no flipping.
+ ![Screenshot 2024-04-21 151347](https://github.com/listenrwt/Flippable-Connect-Five/assets/123095693/d5327627-62a5-473e-bf05-4af1094ea451)
+
 5. Players can strategically choose the flipping action that best suits their gameplay strategy.
 6. The objective of the game is to be the first to connect five tokens in a row, column, or diagonal.
 7. The player who achieves this objective first is declared the winner.
